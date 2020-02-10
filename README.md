@@ -2,8 +2,8 @@
 When you need to move some files from source to destination. This is simple program to move the files.
 
 ## Example
-Source Directory: 'C\\'
-Destination : 'D\\'
+Source Directory: C\\ \
+Destination : D\\
 
 The number of target files: 5
 Give me the filenames.
